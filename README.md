@@ -1,4 +1,4 @@
-# Hi there, I'm Juneed Khan 👋
+# Hi there, I'm Juned Khan 👋
 
 <div align="center">
 
