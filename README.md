@@ -78,8 +78,9 @@ Repository containing my learning experiments, data science explorations, and ed
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xunead__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xunead__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juned-khan-8a4367377
+)
 [![GitHub](https://img.shields.io/badge/GitHub-Junedkhan6266-181717?style=flat-square&logo=github)](https://github.com/Junedkhan6266)
 
 </div>
